@@ -76,6 +76,7 @@ document.getElementById('password').textContent = pw;
 
 
 //THIS BUNDLE OF CODE IS INCORRECT BUT I thought I'd include it to show the struggles I went through... lol
+
 // if statement creating the randomChars variable based on the user's choices.
 // if (upperCase === false && lowerCase === true && numbers === true && special === true){
 //   randomChars = lLetters + nums + specChar;
