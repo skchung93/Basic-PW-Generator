@@ -1,25 +1,37 @@
-# Basic-PW-Generator
+# **Basic Password Generator**
 
-This week's homework was to create a basic password generator.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-The requirements given were as follows:
+### Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contribution)
+- [Test](#test)
+- [License](#license)
+- [Email & Github](#contact)
 
-GIVEN I need a new, secure password <br />
-WHEN I click the button to generate a password <br />
-THEN I am presented with a series of prompts for password criteria <br />
-WHEN prompted for password criteria <br />
-THEN I select which criteria to include in the password <br />
-WHEN prompted for the length of the password <br />
-THEN I choose a length of at least 8 characters and no more than 128 characters <br />
-WHEN asked for character types to include in the password <br />
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters <br />
-WHEN I answer each prompt <br />
-THEN my input should be validated and at least one character type should be selected <br />
-WHEN all prompts are answered <br />
-THEN a password is generated that matches the selected criteria <br />
-WHEN the password is generated <br />
-THEN the password is either displayed in an alert or written to the page <br />
+### DESCRIPTION <a name="description"></a>
+This is a basic javascript web application that generates a password key depending on the user's preferences.
 
-Here is the link to the live application: https://skchung93.github.io/Basic-PW-Generator/
+### Installation Instructions <a name="introduction"></a>
+Download or clone this repository and push it to your favorite web hosting website.
+
+### Usage Guide <a name="usage"></a>
+Go the the deployed application link: https://skchung93.github.io/Basic-PW-Generator/. Answer the prompts accordingly and a password will be generated for you.
+
+### How to Contribute <a name="contribution"></a>
+If you'd like to contribute please send an email to SKCHUNG93@Gmail.com or message me on github.
+
+### How to Test the Application <a name="test"></a>
+Have fun testing out the code :)
+
+### Licenses <a name="license"></a>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+(https://opensource.org/licenses/MIT)
+
+#### Email & Github <a name="contact"></a>
+SKCHUNG93@GMAIL.COM </br>
+https://github.com/skchung93/  
 
 
